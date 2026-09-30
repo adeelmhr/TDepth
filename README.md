@@ -6,7 +6,7 @@ TDepth is a lightweight hybrid CNN–Transformer model that predicts relative de
 
 ## Model Architecture
 
-![TDepth model architecture](Figs/TDepth_Block.png)
+![TDepth model architecture](Figs/TDepth_Block.jpg)
 
 ## Visual Results
 
