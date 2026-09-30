@@ -12,7 +12,7 @@ TDepth is a lightweight hybrid CNN–Transformer model that predicts relative de
 
 The visual results show TDepth predictions on NYU Depth v2 and iBims-1, highlighting scene layout, object boundaries, and fine details.
 
-![TDepth visual results](Figs/results_new.png)
+![TDepth visual results](Figs/results_new.jpg)
 
 ## Paper
 
